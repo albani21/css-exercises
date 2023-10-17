@@ -1,0 +1,23 @@
+.odd{
+    background-color:pink;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size{
+    font-size:24px;
+}
+
+#two{
+    font-size:35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+
+#four{
+    font-weight:bold;
+    background-color:greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
